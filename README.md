@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Developer <br>🌱 Fresher <br>📱 Frontend (React, JavaScript, HTML, CSS) <br>📑 Backend (Node.js, Express, MongoDB)<br>🧑‍🎓 B.Tech CGPA 10/10
+✅ Founder @ VYOMARC Technologies <br> 💻 Full Stack Developer <br>📱 Frontend (React, JavaScript, HTML, CSS) <br>📑 Backend (Node.js, Express, MongoDB)<br>🧑‍🎓 B.Tech CGPA 10/10
 
 
 ## 🌐 Socials:
@@ -18,4 +18,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mrsaurabh009&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<
